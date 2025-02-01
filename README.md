@@ -1,17 +1,19 @@
 # 👋 Hi, I'm [Subitha M]!
 
 ## 💻 About Me
-I'm a passionate software developer with a love for open source and community-driven projects. With a background in Java,HTML,CSS,Javascript,Mysql, I enjoy tackling complex problems and learning new technologies.
+I'm a passionate software developer with a love for open source and community-driven projects. With a background in Java,HTML,CSS,Javascript,Machine Learning,Deep Learning,Artificial Intelligence.I enjoy tackling complex problems and learning new technologies.
 
 ## 🚀 Skills
-- **Languages:** Java, HTML, CSS,JavaScript 
-- **Frameworks:** React
+- **Languages:** Java, Python 
+- **Web Development** HTML, CSS
 - **Tools:** Git, github,Eclipse,Visual studio code
-- **Databases:** MySQL
+- **Other** Artificial Intelligence, Machine Learning, Deep Learning
 - **Word Processor Applications:** Word,Excel
 
 ## 🌱 Currently Learning
-- React programming language
+- Artificial Intelligence
+- Machine Learning
+- Deep Science
 - Github Tools
 
 
